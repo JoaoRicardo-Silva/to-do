@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+#  This project is just a checklist.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created for study purposes only
+
+By João Ricardo
 
 ## Available Scripts
 
